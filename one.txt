@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-add first word
-=======
-qa changes
->>>>>>> qa
+add first word 'hello world'
+qa changes 'hello fiona'
