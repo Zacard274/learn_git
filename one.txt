@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add first word
+=======
+qa changes
+>>>>>>> qa
